@@ -7,7 +7,7 @@
       "title": "Regular Pentagon",
       "category": "Geometry",
       "tags": ["math", "shape", "pentagon", "polygon", "regular"],
-      "fileUrl": "https://github.com/MetalSalt/TactileSvgLibrary/blob/main/shape-pentagon.svg",
+      "fileUrl": "https://raw.githubusercontent.com/MetalSalt/TactileSvgLibrary/refs/heads/main/shape-pentagon.svg",
       "defaultWidthMm": 50.0,
       "defaultHeightMm": 50.0,
       "description": "A 5-sided regular polygon."
