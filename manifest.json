@@ -11,6 +11,16 @@
       "defaultWidthMm": 50.0,
       "defaultHeightMm": 50.0,
       "description": "A 5-sided regular polygon."
+    },
+    {
+      "id": 1002,
+      "title": "Square",
+      "category": "Geometry",
+      "tags": ["math", "shape", "square", "polygon", "regular"],
+      "fileUrl": "https://raw.githubusercontent.com/MetalSalt/TactileSvgLibrary/refs/heads/main/shape-square.svg",
+      "defaultWidthMm": 50.0,
+      "defaultHeightMm": 50.0,
+      "description": "A 4 sided quadrilateral."
     }
   ]
 }
